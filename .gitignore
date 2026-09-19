@@ -1,0 +1,7 @@
+data/raw/
+data/landing/
+
+*.csv
+*.xlsx
+
+__pycache__/
